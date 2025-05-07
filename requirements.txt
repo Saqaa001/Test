@@ -1,5 +1,6 @@
 altair==5.5.0
 arabic-reshaper==3.0.0
+matplotlib==3.10.1
 asgiref==3.8.1
 asn1crypto==1.5.1
 attrs==25.3.0
